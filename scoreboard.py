@@ -31,10 +31,6 @@ class Scoreboard(Turtle):
         self.clear()
         self.update_scoreboard()
 
-    # def high_data(self):
-    #     with open("data.txt", mode="r") as file:
-    #         self.high_score = int(file.read())
-    #         return self.high_score
 
 
 
